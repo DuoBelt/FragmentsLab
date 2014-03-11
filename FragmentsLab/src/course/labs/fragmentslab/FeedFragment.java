@@ -27,7 +27,7 @@ public class FeedFragment extends Fragment {
 	public void onActivityCreated(Bundle savedInstanceState) {
 		super.onActivityCreated(savedInstanceState);
 
-		// Read in all Twitter  feeds 
+		//  Read in all Twitter  feeds 
 		if (null == feedFragmentData) { 
 			
 			feedFragmentData = new FeedFragmentData(getActivity());
