@@ -36,7 +36,7 @@ public class FeedFragment extends Fragment {
 	}
 
 
-// Display Twitter feed for selected feed
+//   Display Twitter feed for selected feed
 
 	void updateFeedDisplay(int position) {
 
