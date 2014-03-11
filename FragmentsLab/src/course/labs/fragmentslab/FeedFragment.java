@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class FeedFragment extends Fragment {
 
 	private static final String TAG = "Lab-Fragments";
+	private static final String TAG2= "DuoBelt";
 
 	private TextView mTextView;
 	private static FeedFragmentData feedFragmentData;
